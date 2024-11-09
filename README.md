@@ -1,0 +1,1 @@
+Este material, consiste um guia para o desenvolvimento e implementação de um osciloscópio digital, com a funcionalidade de calculdo da Transformada Rápida de Fourier (FFT), na forma de um aplicativo para smartphones utilizando sistema operacional Android.
